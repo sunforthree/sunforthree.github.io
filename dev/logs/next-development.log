@@ -1,0 +1,196 @@
+[00:00:00.512] Server  LOG     ✓ Ready in 326ms
+[00:02:35.656] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:35.659] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:35.674] Server  ERROR   Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:35.675] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:35.676] Server  ERROR   TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.323] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.324] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.343] Server  ERROR   Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.344] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.345] Server  ERROR   TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.483] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.485] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.505] Server  ERROR   Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.506] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.508] Server  ERROR   TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.654] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.656] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.676] Server  ERROR   Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.679] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.680] Server  ERROR   TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.819] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.821] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.836] Server  ERROR   Error: ENOENT: no such file or directory, open '/Volumes/CodeSpace/codespace/CV/dist/dev/server/app/page/build-manifest.json'
+[00:02:36.837] Server  ERROR   ⨯ TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:02:36.838] Server  ERROR   TurbopackInternalError: Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of PlainIssue::from_issue failed
+- Failed to restore task data (corrupted database or bug): Meta for <ResolvingIssue as Issue>::file_path (TaskId 102683))
+  
+  Caused by:
+      0: Looking up data for TaskId 102683 from database failed
+      1: Unable to open static sorted file referenced from 00000026.meta
+      2: Unable to open static sorted file 00000021.sst
+      3: No such file or directory (os error 2)
+[00:00:07.118] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.249] Browser ERROR   Uncaught error: {} {"componentStack":"\n    at http://localhost:3001/_next/static/chunks/node_modules__pnpm_b7a43243._.js:12074:47\n    at div (<anonymous>)\n    at Avatar (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:1302:19)\n    at header (<anonymous>)\n    at Header (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:1972:179)\n    at div (<anonymous>)\n    at section (<anonymous>)\n    at main (<anonymous>)\n    at ResumePage (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:2811:179)\n    at ClientPageRoot (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:2358:27)\n    at SegmentViewNode (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3309:28)\n    at InnerLayoutRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:351:34)\n    at RedirectErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10149:9)\n    at RedirectBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10191:29)\n    at HTTPAccessFallbackErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10577:9)\n    at HTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10652:39)\n    at Suspense (<anonymous>)\n    at LoadingBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:433:32)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1096:26)\n    at InnerScrollAndFocusHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:251:9)\n    at ScrollAndFocusHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:334:34)\n    at RenderFromTemplateContext (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:696:44)\n    at SegmentStateProvider (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3325:33)\n    at OuterLayoutRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:469:30)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/_13c7c913._.js:14:1)\n    at LanguageProvider (http://localhost:3001/_next/static/chunks/_13c7c913._.js:98:29)\n    at body (<anonymous>)\n    at html (<anonymous>)\n    at RootLayout [Server] (<anonymous>)\n    at SegmentViewNode (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3309:28)\n    at __next_root_layout_boundary__ (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:1681:64)\n    at RedirectErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10149:9)\n    at RedirectBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10191:29)\n    at HTTPAccessFallbackErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10577:9)\n    at HTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10652:39)\n    at DevRootHTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10721:46)\n    at AppDevOverlayErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3420:9)\n    at HotReload (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:11750:22)\n    at Router (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:11906:23)\n    at ErrorBoundaryHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1030:9)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1096:26)\n    at RootErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10403:30)\n    at AppRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12225:22)\n    at ServerRoot (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12584:23)\n    at Root (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12602:17)"}
+[00:00:07.249] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:07.249] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/react","sdkv":"1.5.0","sv":"0.1.3","ts":1772981941573} /_vercel/insights/view
+[00:00:12.502] Browser ERROR   Uncaught error: {} {"componentStack":"\n    at http://localhost:3001/_next/static/chunks/node_modules__pnpm_b7a43243._.js:12074:47\n    at div (<anonymous>)\n    at Avatar (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:1302:19)\n    at header (<anonymous>)\n    at Header (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:1972:179)\n    at div (<anonymous>)\n    at section (<anonymous>)\n    at main (<anonymous>)\n    at ResumePage (http://localhost:3001/_next/static/chunks/src_36d99f47._.js:2811:179)\n    at ClientPageRoot (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:2358:27)\n    at SegmentViewNode (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3309:28)\n    at InnerLayoutRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:351:34)\n    at RedirectErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10149:9)\n    at RedirectBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10191:29)\n    at HTTPAccessFallbackErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10577:9)\n    at HTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10652:39)\n    at Suspense (<anonymous>)\n    at LoadingBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:433:32)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1096:26)\n    at InnerScrollAndFocusHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:251:9)\n    at ScrollAndFocusHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:334:34)\n    at RenderFromTemplateContext (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:696:44)\n    at SegmentStateProvider (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3325:33)\n    at OuterLayoutRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_fa2cda73._.js:469:30)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/_13c7c913._.js:14:1)\n    at LanguageProvider (http://localhost:3001/_next/static/chunks/_13c7c913._.js:98:29)\n    at body (<anonymous>)\n    at html (<anonymous>)\n    at RootLayout [Server] (<anonymous>)\n    at SegmentViewNode (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3309:28)\n    at __next_root_layout_boundary__ (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:1681:64)\n    at RedirectErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10149:9)\n    at RedirectBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10191:29)\n    at HTTPAccessFallbackErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10577:9)\n    at HTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10652:39)\n    at DevRootHTTPAccessFallbackBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10721:46)\n    at AppDevOverlayErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_2a67324b._.js:3420:9)\n    at HotReload (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:11750:22)\n    at Router (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:11906:23)\n    at ErrorBoundaryHandler (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1030:9)\n    at ErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:1096:26)\n    at RootErrorBoundary (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:10403:30)\n    at AppRouter (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12225:22)\n    at ServerRoot (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12584:23)\n    at Root (http://localhost:3001/_next/static/chunks/979b6_next_dist_client_8b3c0be4._.js:12602:17)"}
